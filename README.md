@@ -27,7 +27,7 @@ Features
 
 Supported Operating Systems
 ---
-Microsoft Windows 7 SP1 or above
+Microsoft Windows 7 SP1 or later
 
 Download
 ---
