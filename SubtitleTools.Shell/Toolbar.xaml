@@ -6,7 +6,7 @@
 			 xmlns:Views="clr-namespace:SubtitleTools.Shell"  
 			 xmlns:Ctrls="clr-namespace:SubtitleTools.Common.Controls;assembly=SubtitleTools.Common"
 			 xmlns:b="clr-namespace:SubtitleTools.Common.Behaviors;assembly=SubtitleTools.Common"
-			 xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"              
+			 xmlns:i="http://schemas.microsoft.com/xaml/behaviors"              
 			 mc:Ignorable="d" FontFamily="Tahoma"
 			 d:DesignHeight="63" d:DesignWidth="400">
 	<Grid>

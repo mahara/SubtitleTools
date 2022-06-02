@@ -5,7 +5,7 @@
 			 xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
 			 xmlns:vm="clr-namespace:SubtitleTools.Infrastructure.ViewModels;assembly=SubtitleTools.Infrastructure"
 			 xmlns:b="clr-namespace:SubtitleTools.Common.Behaviors;assembly=SubtitleTools.Common"
-			 xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"              
+			 xmlns:i="http://schemas.microsoft.com/xaml/behaviors"              
 			 mc:Ignorable="d" Name="ThisJoinTwoFiles" FontFamily="Tahoma"
 			 d:DesignHeight="300" d:DesignWidth="300">
 	<UserControl.Resources>

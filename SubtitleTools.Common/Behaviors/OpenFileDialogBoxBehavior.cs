@@ -1,6 +1,6 @@
 ﻿using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Interactivity;
+using Microsoft.Xaml.Behaviors;
 using Microsoft.Win32;
 using SubtitleTools.Common.Files;
 using SubtitleTools.Common.MVVM;

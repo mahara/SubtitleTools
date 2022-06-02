@@ -6,7 +6,7 @@
 			 xmlns:vm="clr-namespace:SubtitleTools.Infrastructure.ViewModels;assembly=SubtitleTools.Infrastructure"
 			 mc:Ignorable="d" FontFamily="Tahoma"
 			 xmlns:b="clr-namespace:SubtitleTools.Common.Behaviors;assembly=SubtitleTools.Common"
-			 xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" 
+			 xmlns:i="http://schemas.microsoft.com/xaml/behaviors" 
 			 xmlns:extToolkit="clr-namespace:Microsoft.Windows.Controls;assembly=SubtitleTools.Common"
 			 xmlns:conv="clr-namespace:SubtitleTools.Common.Converters;assembly=SubtitleTools.Common"
 			 d:DesignHeight="400" d:DesignWidth="400">
