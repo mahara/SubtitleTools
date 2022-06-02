@@ -27,7 +27,7 @@ Features
 
 Supported Operating Systems
 ---
-Windows XP Service Pack 3+
+Microsoft Windows 7 SP1 or above
 
 Download
 ---
@@ -36,5 +36,5 @@ Download
 
 Prerequisites
 ---
-   - [Microsoft .NET Framework 4.8](https://support.microsoft.com/en-us/topic/microsoft-net-framework-4-8-offline-installer-for-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
+   - [Microsoft .NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 
