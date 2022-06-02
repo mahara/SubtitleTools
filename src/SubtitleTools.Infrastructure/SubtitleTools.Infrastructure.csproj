@@ -25,11 +25,11 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="CookComputing.XmlRpcV2, Version=3.0.0.0, Culture=neutral, PublicKeyToken=a7d6e17aa302004d, processorArchitecture=MSIL">
-      <HintPath>..\packages\xmlrpcnet.3.0.0.266\lib\net20\CookComputing.XmlRpcV2.dll</HintPath>
+      <HintPath>..\..\lib\packages\xmlrpcnet.3.0.0.266\lib\net20\CookComputing.XmlRpcV2.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="DNTPersianUtils.Core, Version=5.4.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\DNTPersianUtils.Core.5.4.4\lib\net46\DNTPersianUtils.Core.dll</HintPath>
+      <HintPath>..\..\lib\packages\DNTPersianUtils.Core.5.4.4\lib\net46\DNTPersianUtils.Core.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="PresentationCore" />
